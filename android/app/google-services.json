@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118284696968",
+    "project_id": "qm-system-161d9",
+    "storage_bucket": "qm-system-161d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118284696968:android:37de9b1d919b24e8388e3d",
+        "android_client_info": {
+          "package_name": "com.example.qms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118284696968-scts2fj8644ckcovl8c2gi4n5v71u2m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiNd3THIiLIbVlg6NRsFtReIqCdAK_qoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118284696968-scts2fj8644ckcovl8c2gi4n5v71u2m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
